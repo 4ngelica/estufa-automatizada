@@ -42,7 +42,7 @@ Ambas as leituras do ambiente foram feitas pelo mesmo sensor.
 Como sistema de operação central foi usada a placa BeagleBone Black a qual recebia do PC (via usb) tanto o código que deveria ser executado
 quanto a alimentação para funcionamento da placa.
 
-!Colocar imagem do circuito geral aqui!
+![circuito_geral](https://user-images.githubusercontent.com/47900225/59558378-2bf12a80-8fc7-11e9-93db-ea19e8a30da4.jpg)
 
 A figura acima demonstra toda a ligação do circuito da estufa. Nessa imagem, faltou apenas a bomba d'água por limitação do software de desenho.
 A ligação da bomba ocorre direto no relé que consta na figura acima.
@@ -67,7 +67,9 @@ para a peça impressa em 3d (caíxa d'água - 80x80x80 mm com 3 mm de expessura)
 
 Os CADs da estrutura principal estão listados abaixo e também uma vista geral desta.
 
-!Colocar os cads e a foto da estrutura no solid works aqui!
+![vista_solid_works](https://user-images.githubusercontent.com/47900225/59558384-6a86e500-8fc7-11e9-908f-2119e0f0608c.jpeg)
+
+
 
 ## Hardwares utilizados
 
