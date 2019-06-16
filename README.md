@@ -67,6 +67,10 @@ para a peça impressa em 3d (caíxa d'água - 80x80x80 mm com 3 mm de expessura)
 
 Os CADs da estrutura principal estão listados abaixo e também uma vista geral desta.
 
+[Base.PDF](https://github.com/angelicabatassim/estufa/files/3293774/Base.PDF)
+[Tabua_comprida.PDF](https://github.com/angelicabatassim/estufa/files/3293775/Tabua_comprida.PDF)
+[Tabua_curta.PDF](https://github.com/angelicabatassim/estufa/files/3293776/Tabua_curta.PDF)
+
 ![vista_solid_works](https://user-images.githubusercontent.com/47900225/59558384-6a86e500-8fc7-11e9-908f-2119e0f0608c.jpeg)
 
 
