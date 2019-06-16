@@ -5,7 +5,7 @@
 
 </p>
 
-<h3 align="center">Projeto Estufa</h3>
+<h3 align="center">Sistema de monitoramento de Estufa</h3>
 
 ## Sumário
 
