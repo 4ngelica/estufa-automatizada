@@ -1,6 +1,8 @@
 # Projeto Sistemas Embarcados
 <p align="center">
-  !Colocar imagem geral da estufa aqui!
+  
+![imagem_geral_estufa](https://user-images.githubusercontent.com/47900225/59558333-660dfc80-8fc6-11e9-849c-942839e9385e.jpeg)
+
 </p>
 
 <h3 align="center">Projeto Estufa</h3>
