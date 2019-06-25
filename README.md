@@ -7,6 +7,8 @@
 
 <h3 align="center">Sistema de monitoramento de Estufa</h3>
 
+Vídeo demonstrativo: https://youtu.be/ig8Omhb2YGI
+
 ## Sumário
 
 - [Arquitetura do projeto](#arquitetura-do-projeto)
