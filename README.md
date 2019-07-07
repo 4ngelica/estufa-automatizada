@@ -32,6 +32,8 @@ de temperatura (DT) surgem as 3 condições que regem o funcionamento do cooler 
 
 3 - Se DT <= 0,1 : cooler se mantém na velocidade mínima e a porta lateral mantida fechada
 
+![malha_temperatura (1)](https://user-images.githubusercontent.com/47900225/60770572-be5e8880-a0b2-11e9-8686-8793903ef60a.JPG)
+
 Para a segunda malha de controle (bomba d'água), o valor de umidade lido pelo sensor é colocado direto nas condições de controle dessa parte
 do sistema. Tais condições são
 
@@ -40,6 +42,9 @@ do sistema. Tais condições são
 2 - Se valor da umidade lido pelo sensor > 58 : bomba d'água é desligada
 
 Ambas as leituras do ambiente foram feitas pelo mesmo sensor.
+
+![malha_umidade](https://user-images.githubusercontent.com/47900225/60770607-11384000-a0b3-11e9-8a82-12a369c495ee.JPG)
+
 
 Como sistema de operação central foi usada a placa BeagleBone Black a qual recebia do PC (via usb) tanto o código que deveria ser executado
 quanto a alimentação para funcionamento da placa.
